@@ -17,7 +17,7 @@ SKILLS:
 HTML, CSS, JavaScript, TypeScript, React, Tailwind CSS,
 Bootstrap, Ant Design, Next.js, Node.js, Express, MongoDB,
 SQL, Supabase, Redux Toolkit, Zustand, Git, GitHub, REST APIs,
-AI / LLMs, Prompt Engineering and Agentic AI.
+, Prompt Engineering .
 
 PROJECTS:
 

@@ -61,8 +61,6 @@ const skills = [
   "Zustand",
   "Git",
   "REST APIs",
-  "AI / LLMs",
-  "Agentic AI",
 ];
 
 const services = [
